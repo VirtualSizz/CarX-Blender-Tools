@@ -20,6 +20,7 @@ To begin, please follow these steps:
 
 
 ### Another Project
+<img align="left" src="https://raw.githubusercontent.com/VirtualSizz/CarX-Blender-Tools/main/Media/MacauX.png" width=128 height=128>
 I'm currently working on another project, a CarX map known as MacauX. It's designed to be an open-world and relaxed environment for hanging out and engaging in various activities. If you're interested, you can join our Discord server via the link below.
 
 [Discord](https://discord.gg/qa6We3ySxv)
