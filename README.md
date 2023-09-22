@@ -1,4 +1,5 @@
 # CarX Blender Tools
+<img align="right" src="https://raw.githubusercontent.com/VirtualSizz/CarX-Blender-Tools/main/Media/blender_L4OJoXsrM9.png">
 
 This is an updated version of an addon based on [Blender CarX Mod Tools](https://github.com/Zi9/Blender-CarX-Mod-Tools)
 
