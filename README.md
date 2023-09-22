@@ -1,6 +1,6 @@
 # CarX Blender Tools
 
-This is an addon based on [Blender CarX Mod Tools](https://github.com/Zi9/Blender-CarX-Mod-Tools)
+This is an updated version of an addon based on [Blender CarX Mod Tools](https://github.com/Zi9/Blender-CarX-Mod-Tools)
 
 It generates an additional panel within the right toolbox (toggle with 'N') containing buttons for effortless material adjustment and placeholder creation.
 
