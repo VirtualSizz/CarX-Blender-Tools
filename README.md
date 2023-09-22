@@ -17,3 +17,9 @@ To begin, please follow these steps:
 3. Inside the preferences window, find the "Add-ons" tab.
 
 4. Within this tab, you'll see an "Install" button. Click on it and choose the zip file you just downloaded.
+
+
+### Another Project
+I'm currently working on another project, a CarX map known as MacauX. It's designed to be an open-world and relaxed environment for hanging out and engaging in various activities. If you're interested, you can join our Discord server via the link below.
+
+[Discord](https://discord.gg/qa6We3ySxv)
